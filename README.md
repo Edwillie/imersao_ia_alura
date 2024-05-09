@@ -1,4 +1,4 @@
-# imersao_ia_alura
+# Imersao Alura - Inteligencia Artificial da Google - GEMINI
 Projeto de uso da inteligencia artificial da Google - GEMINI
 
 # Objetivo

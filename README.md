@@ -17,3 +17,7 @@ Brincadeiras à parte, há alguns pontos importantes aqui:
 Utilizar o Gemini, baseado em uma foto (de alimentos ou cupom fiscal), para proposição de pratos e cardápios. Retornando algumas receitas.
 
 Ou seja, e voltando um pouco na "piada", porque não usar o Gemini para responder uma "Boa pergunta"?!
+
+# Dedicatória
+Para minha amada esposa, que sempre busca algo a mais para nossa familia. Incansável, Guerreira, Mãe, Psicóloga.
+Que merece sempre nosso pensamento e ações de agradecimento a ela.
